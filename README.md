@@ -1,2 +1,2 @@
 # Basic
-Let's code a website
+Let's code a website. Some basic file structure.
